@@ -1,3 +1,3 @@
 # LeetCode_Python
-## LeetCode(1)
-## LeetCode No.2 Medium Add Two Numbers
+* LeetCode_Easy
+* LeetCode No.2 Medium Add Two Numbers
